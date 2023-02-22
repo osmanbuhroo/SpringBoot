@@ -1,6 +1,6 @@
-package com.azure.repository;
+package com.gcp.repo;
 
-import com.azure.entity.Employee;
+import com.gcp.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
