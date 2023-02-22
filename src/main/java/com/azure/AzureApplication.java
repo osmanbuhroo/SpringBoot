@@ -1,13 +1,13 @@
-package com.aws;
+package com.azure;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AwsApplication {
+public class AzureApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AwsApplication.class, args);
+        SpringApplication.run(AzureApplication.class, args);
     }
 
 }
